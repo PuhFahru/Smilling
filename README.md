@@ -28,9 +28,9 @@ Projek ini merupakan projek capstone SIB dicoding cycle 4
 ### Languages and Tools:
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Laravel" width="30px" src="https://cdn.worldvectorlogo.com/logos/laravel-3.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="CI" width="30px" src="https://cdn.worldvectorlogo.com/logos/codeigniter-1.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP" width="30px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="Laravel" width="30px" src="https://cdn.worldvectorlogo.com/logos/laravel-3.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CI" width="30px" src="https://cdn.worldvectorlogo.com/logos/codeigniter-1.svg" style="padding-right:10px;" />]
+[<img align="left" alt="PHP" width="30px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" style="padding-right:0px;" />]
 
 <br />
 <br />
