@@ -1,4 +1,5 @@
 # Smiling (Stories for Family Bonding)
+Projek ini merupakan projek capstone SIB dicoding cycle 4. <br>
 Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai solusi pemanfaatan gawai untuk memudahkan bonding keluarga sekaligus menarik perhatian anak. Aplikasi ini berisi cerita anak yang disertai media ilustrasi dan musik latar, sehingga orang tua dan anak bisa berinteraksi melalui aktivitas membaca bersama.
 
 ## Cara Penggunaan
@@ -27,7 +28,6 @@ Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai solusi pemanfaata
   Dokuemntasi API : [Smiling_API](https://smiling-api-docs.netlify.app/#/)
 
 ## Team
-Projek ini merupakan projek capstone SIB dicoding cycle 4. <br>
 #### 1. [Fahru Alfarizi Hananza Putrawan](https://www.linkedin.com/in/fahru-alfarizi-hananza-putrawan-94379b26a/)| UNIVERSITAS MATARAM | `F009XA014`
 
 #### 2. [Diaz Khalid Ananda](https://www.linkedin.com/in/diaz-khalid-ananda-5a135a267/)| UNIVERSITAS MATARAM | `F009XA017`
@@ -36,7 +36,7 @@ Projek ini merupakan projek capstone SIB dicoding cycle 4. <br>
 
 #### 4. [I Made Adi Sukma Meta](https://www.linkedin.com/in/adi-sukma-a5485b176/)| ITB STIKOM BALI | `F060XA084`
 
-### Languages and Tools:
+### Bahasa Pemrograman dan Tools
 [<img align="left" alt="HTML" width="48px" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="CSS" width="48px" height="48" src="https://img.icons8.com/plasticine/48/css3.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="JAVASCRIPT" width="48px" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" style="padding-right:10px;" />][webdev]
