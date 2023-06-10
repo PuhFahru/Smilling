@@ -28,16 +28,4 @@ Projek ini merupakan projek capstone SIB dicoding cycle 4
 <br />
 <br />
 
-
-## My Stats
-<p align="center"><img src="https://www.codewars.com/users/fahrual/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=fahrual&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrual&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrual&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
-
-<br />
-<br />
-
-
 [webdev]: https://github.com/fahrual/fahrual
