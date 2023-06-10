@@ -53,6 +53,7 @@
 [<img align="left" alt="VisualStudioCode" width="48px"  height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Postman" width="48px" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Eslint" width="48px" height="48" src="https://img.icons8.com/fluency/48/node-js.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Eslint" width="48px" height="48" src="https://img.icons8.com/color/48/eslint.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
