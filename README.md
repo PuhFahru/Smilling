@@ -1,6 +1,7 @@
 # Smilling
 Projek ini merupakan projek capstone SIB dicoding cycle 4. <br>
-Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai solusi pemanfaatan gawai untuk memudahkan bonding keluarga sekaligus menarik perhatian anak. Aplikasi ini berisi cerita anak yang disertai media ilustrasi dan musik latar, sehingga orang tua dan anak bisa berinteraksi melalui aktivitas membaca bersama.
+Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai solusi pemanfaatan gawai untuk memudahkan bonding keluarga sekaligus menarik perhatian anak. Aplikasi ini berisi cerita anak yang disertai media ilustrasi dan musik latar, sehingga orang tua dan anak bisa berinteraksi melalui aktivitas membaca bersama.<br>
+[Dokumentasi API](https://smiling-api-docs.netlify.app/#/)
 ### Smilling
 Projek ini merupakan projek capstone SIB dicoding cycle 4
 * kamu
