@@ -18,6 +18,13 @@ Projek ini merupakan projek capstone SIB dicoding cycle 4
 ## Smilling
 Projek ini merupakan projek capstone SIB dicoding cycle 4
 
+## Education:
+#### 1. [MA PUTRA Al-ISHLAHUDDINY KEDIRI] | MIPA | Kediri `2016-2020`
+
+#### 2. [SMPN 8 MATARM ](https://smpn8mataram.business.site/) | MIPA | Mataram `2013-2016`
+
+#### 3. [SDN 1 MIDANG ](https://www.sman1kebumen.sch.id) | Mataram `2006-2013`
+
 ### Languages and Tools:
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
