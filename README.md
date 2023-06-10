@@ -1,15 +1,9 @@
 <h1 align="center"> Smiling (Stories for Family Bonding) </h1>
+ ![img 3](img/beranda.png)
 
-
-<div style="text-align:center">
-    ![img 3](img/beranda.png)
-    <p>Ini adalah teks yang akan berada di tengah.</p>
-</div>
 <div align="center" style="text-align: justify">
   <p>Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai <b>solusi</b> pemanfaatan gawai untuk memudahkan bonding keluarga sekaligus menarik perhatian   anak. Aplikasi ini berisi cerita anak yang disertai media ilustrasi dan musik latar, sehingga orang tua dan anak bisa berinteraksi melalui aktivitas membaca       bersama.</p>
 </div>
-
-
 
 
 ## Cara Penggunaan
