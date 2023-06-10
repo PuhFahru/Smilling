@@ -5,8 +5,9 @@ Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai solusi pemanfaata
 ## Cara Penggunaan
 #### 1. Download File <br> Langkah pertama yaitu mendownload file dengan menekan tombol <b>Code</b> Kemudian menekan tombol <b>Download Zip</b> kemudian buka foler di text editor anda <br> ![img 1](img/download.png) 
   
-  Menginstal Dependensi </li> Langkah kedua yaitu menginstall seluruh depedensi yang ada dalam proyek package.json dengan cara menulis pada terminal <b>Npm install</b> ![img 2](img/npminstall.png) <li>
-  Menjalankan Aplikasi </li> Langkah ketiga yaitu menjalankan aplikasi dengan cara menulis pada terminal <b>Npm run start-dev</b> ![img 2](img/npmrunstartdev.png) </ol>
+#### 2. Menginstal Dependensi <br> Langkah kedua yaitu menginstall seluruh depedensi yang ada dalam proyek package.json dengan cara menulis pada terminal <b>Npm install</b> <br> ![img 2](img/npminstall.png)
+  
+#### 3. Menjalankan Aplikasi <br> Langkah ketiga yaitu menjalankan aplikasi dengan cara menulis pada terminal <b>Npm run start-dev</b> <br> ![img 2](img/npmrunstartdev.png)
 
 ## Tampilan Aplikasi
 <li><li>
