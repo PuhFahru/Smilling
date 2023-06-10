@@ -1,14 +1,39 @@
-# Smilling
+# Smiling (Stories for Family Bonding)
 Projek ini merupakan projek capstone SIB dicoding cycle 4. <br>
 Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai solusi pemanfaatan gawai untuk memudahkan bonding keluarga sekaligus menarik perhatian anak. Aplikasi ini berisi cerita anak yang disertai media ilustrasi dan musik latar, sehingga orang tua dan anak bisa berinteraksi melalui aktivitas membaca bersama.
-### Smilling
-Projek ini merupakan projek capstone SIB dicoding cycle 4
-* kamu
-* dia
-* aku
-<ol><li>
-  List satu</li><li>
-  List dua</li></ol>
 
-## Smilling
-Projek ini merupakan projek capstone SIB dicoding cycle 4
+## Cara Penggunaan
+<li><li>
+  Download File</li> Langkah pertama yaitu mendownload file dengan menekan tombol <b>Code</b> Kemudian menekan tombol <b>Download Zip</b> kemudian buka foler di text editor anda ![img 1](img/download.png) <li>
+  Menginstal Dependensi </li> Langkah kedua yaitu menginstall seluruh depedensi yang ada dalam proyek package.json dengan cara menulis pada terminal <b>Npm install</b> ![img 2](img/npminstall.png) <li>
+  Menjalankan Aplikasi </li> Langkah ketiga yaitu menjalankan aplikasi dengan cara menulis pada terminal <b>Npm run start-dev</b> ![img 2](img/npmrunstartdev.png) </ol>
+
+## Tampilan Aplikasi
+<li><li>
+  Beranda</li> ![img 4](img/beranda.png) <li>
+  Favorite</li> ![img 5](img/favorite.png) <li>
+  Tentang-kami</li> ![img 6](img/tentangkami.png) </ol>
+
+## Dokumentasi API
+* Untuk Dokumentasi API dari Aplikasi Smiling ini bisa akess link berikut: <br>
+  Dokuemntasi API : [Smiling_API](https://smiling-api-docs.netlify.app/#/)
+
+## Team
+#### 1. [Fahru Alfarizi Hananza Putrawan] (https://www.linkedin.com/in/fahru-alfarizi-hananza-putrawan-94379b26a/) | UNIVERSITAS MATARAM | `F009XA014`
+
+#### 2. [Diaz Khalid Ananda] (https://www.linkedin.com/in/diaz-khalid-ananda-5a135a267/) | UNIVERSITAS MATARAM | `F009XA017`
+
+#### 3. [I Gusti Agung Ngurah Oka Devara Jelantik] (https://www.linkedin.com/in/okadevara/) | ITB STIKOM BALI | `F060XA154`
+
+#### 4. [I Made Adi Sukma Meta] (https://www.linkedin.com/in/adi-sukma-a5485b176/) | ITB STIKOM BALI | `F060XA084`
+
+### Languages and Tools:
+[<img align="left" alt="HTML" width="48px" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CSS" width="48px" height="48" src="https://img.icons8.com/plasticine/48/css3.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JAVASCRIPT" width="48px" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="BOOTSTRAP" width="48px" height="48" src="https://img.icons8.com/color/48/bootstrap.png" style="padding-right:10px;" />][webdev]
+
+<br />
+<br />
+
+[webdev]: https://github.com/fahrual/fahrual
