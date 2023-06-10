@@ -1,13 +1,15 @@
 <h1 align="center"> Smiling (Stories for Family Bonding) </h1>
 
-
  ![img 3](img/beranda.png)
-
 <div align="center" style="text-align: justify">
   <p>Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai <b>solusi</b> pemanfaatan gawai untuk memudahkan bonding keluarga sekaligus menarik perhatian   anak. Aplikasi ini berisi cerita anak yang disertai media ilustrasi dan musik latar, sehingga orang tua dan anak bisa berinteraksi melalui aktivitas membaca       bersama.</p>
 </div>
 
 <h2 align="center"> Executive Summary </h2>
+<div align="center" style="text-align: justify">
+  Banyak orang tua membebaskan anak yang masih berusia dini bermain sendiri dengan gawai. Dibuktikan dengan laporan Badan Pusat Statistik (BPS), pada tahun 2022     sebanyak 33,44% anak usia 0-6 tahun di Indonesia sudah terbiasa menggunakan ponsel. Penggunaan gawai pada usia dini di luar pengawasan orang tua, menghilangkan   nilai kemanfaatan dari gawai itu sendiri. Dampak terburuknya, mampu menyebabkan ikatan orang tua dan anak menjadi semakin renggang. Sehingga diciptakan aplikasi   Smiling ini dengan tujuan menciptakan hubungan antara anak dan orang tua.
+</div>
+
 
 
 ## Cara Penggunaan
