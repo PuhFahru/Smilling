@@ -7,11 +7,11 @@ Projek ini merupakan projek capstone SIB dicoding cycle 4
 * dia
 * aku
 <ol><li>
+  List enam</li> kamu adalah aku <li>
   List satu</li> kamu adalah aku <li>
-  List dua</li></ol>
-  List dua</li></ol>
-  List dua</li></ol>
-  List dua</li></ol>
+  List dua</li> kamu adalah aku <li>
+  List tiga</li> kamu adalah aku <li>
+  List empat</li></ol>
 
 ## Smilling
 Projek ini merupakan projek capstone SIB dicoding cycle 4
