@@ -13,13 +13,13 @@ Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai solusi pemanfaata
 #### 1. Halaman Beranda <br> 
 ![img 3](img/beranda.png)
 
-#### 1. Halaman Detail <br> 
+#### 2. Halaman Detail <br> 
 ![img 4](img/detail.png)
 
-#### 1. Halaman Favorite <br> 
+#### 3. Halaman Favorite <br> 
 ![img 5](img/favorite.png)
 
-#### 1. Halaman Tentang Kami <br> 
+#### 4. Halaman Tentang Kami <br> 
 ![img 6](img/tentangkami.png)
 
 
