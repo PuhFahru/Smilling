@@ -11,6 +11,7 @@ Projek ini merupakan projek capstone SIB dicoding cycle 4
   List satu</li> kamu adalah aku <li>
   List dua</li> kamu adalah aku <li>
   List tiga</li> kamu adalah aku <li>
+  List dua</li></ol>
 
 
 ## Smilling
