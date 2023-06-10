@@ -3,23 +3,27 @@ Projek ini merupakan projek capstone SIB dicoding cycle 4. <br>
 Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai solusi pemanfaatan gawai untuk memudahkan bonding keluarga sekaligus menarik perhatian anak. Aplikasi ini berisi cerita anak yang disertai media ilustrasi dan musik latar, sehingga orang tua dan anak bisa berinteraksi melalui aktivitas membaca bersama.
 
 ## Cara Penggunaan
-<li><li>
-  Download File</li> Langkah pertama yaitu mendownload file dengan menekan tombol <b>Code</b> Kemudian menekan tombol <b>Download Zip</b> kemudian buka foler di text editor anda ![img 1](img/download.png) <li>
-  Menginstal Dependensi </li> Langkah kedua yaitu menginstall seluruh depedensi yang ada dalam proyek package.json dengan cara menulis pada terminal <b>Npm install</b> ![img 2](img/npminstall.png) <li>
-  Menjalankan Aplikasi </li> Langkah ketiga yaitu menjalankan aplikasi dengan cara menulis pada terminal <b>Npm run start-dev</b> ![img 2](img/npmrunstartdev.png) </ol>
+#### 1. Download File <br> Langkah pertama yaitu mendownload file dengan menekan tombol <b>Code</b> Kemudian menekan tombol <b>Download Zip</b> kemudian buka foler di text editor anda <br> ![img 1](img/download.png) 
+  
+#### 2. Menginstal Dependensi <br> Langkah kedua yaitu menginstall seluruh depedensi yang ada dalam proyek package.json dengan cara menulis pada terminal <b>Npm install</b> <br> ![img 2](img/npminstall.png)
+  
+#### 3. Menjalankan Aplikasi <br> Langkah ketiga yaitu menjalankan aplikasi dengan cara menulis pada terminal <b>Npm run start-dev</b> <br> ![img 2](img/npmrunstartdev.png)
 
 ## Tampilan Aplikasi
-<li><li>
-  Beranda</li> ![img 4](img/beranda.png) <li>
-  Favorite</li> ![img 5](img/favorite.png) <li>
-  Tentang-kami</li> ![img 6](img/tentangkami.png) </ol>
+#### 1. Halaman Beranda <br> 
+![img 3](img/beranda.png)
+  
+#### 2. Menginstal Dependensi <br> Langkah kedua yaitu menginstall seluruh depedensi yang ada dalam proyek package.json dengan cara menulis pada terminal <b>Npm install</b> <br> ![img 2](img/npminstall.png)
+  
+#### 3. Menjalankan Aplikasi <br> Langkah ketiga yaitu menjalankan aplikasi dengan cara menulis pada terminal <b>Npm run start-dev</b> <br> ![img 2](img/npmrunstartdev.png)
+
 
 ## Dokumentasi API
 * Untuk Dokumentasi API dari Aplikasi Smiling ini bisa akess link berikut: <br>
   Dokuemntasi API : [Smiling_API](https://smiling-api-docs.netlify.app/#/)
 
 ## Team
-#### 1. [Fahru Alfarizi Hananza Putrawan] (https://www.linkedin.com/in/fahru-alfarizi-hananza-putrawan-94379b26a/) | UNIVERSITAS MATARAM | `F009XA014`
+#### 1. [Fahru Alfarizi Hananza P] (https://www.linkedin.com/in/fahru-alfarizi-hananza-putrawan-94379b26a/) | UNIVERSITAS MATARAM | `F009XA014`
 
 #### 2. [Diaz Khalid Ananda] (https://www.linkedin.com/in/diaz-khalid-ananda-5a135a267/) | UNIVERSITAS MATARAM | `F009XA017`
 
