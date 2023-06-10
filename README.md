@@ -3,8 +3,8 @@ Projek ini merupakan projek capstone SIB dicoding cycle 4. <br>
 Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai solusi pemanfaatan gawai untuk memudahkan bonding keluarga sekaligus menarik perhatian anak. Aplikasi ini berisi cerita anak yang disertai media ilustrasi dan musik latar, sehingga orang tua dan anak bisa berinteraksi melalui aktivitas membaca bersama.
 
 ## Cara Penggunaan
-<li><li>
-  Download File</li> Langkah pertama yaitu mendownload file dengan menekan tombol <b>Code</b> Kemudian menekan tombol <b>Download Zip</b> kemudian buka foler di text editor anda ![img 1](img/download.png) <li>
+#### 1. Download File <br> Langkah pertama yaitu mendownload file dengan menekan tombol <b>Code</b> Kemudian menekan tombol <b>Download Zip</b> kemudian buka foler di text editor anda <br> ![img 1](img/download.png) 
+  
   Menginstal Dependensi </li> Langkah kedua yaitu menginstall seluruh depedensi yang ada dalam proyek package.json dengan cara menulis pada terminal <b>Npm install</b> ![img 2](img/npminstall.png) <li>
   Menjalankan Aplikasi </li> Langkah ketiga yaitu menjalankan aplikasi dengan cara menulis pada terminal <b>Npm run start-dev</b> ![img 2](img/npmrunstartdev.png) </ol>
 
