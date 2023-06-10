@@ -1,4 +1,5 @@
-# Smiling (Stories for Family Bonding)
+<h1 align="center"> # Smiling (Stories for Family Bonding) </h1>
+
 <div align="center">
   <p>Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai <b>solusi</b> pemanfaatan gawai untuk memudahkan bonding keluarga sekaligus menarik perhatian   anak. Aplikasi ini berisi cerita anak yang disertai media ilustrasi dan musik latar, sehingga orang tua dan anak bisa berinteraksi melalui aktivitas membaca       bersama.</p>
 </div>
