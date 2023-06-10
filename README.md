@@ -1,4 +1,6 @@
 <h1 align="center"> Smiling (Stories for Family Bonding) </h1>
+
+
  ![img 3](img/beranda.png)
 
 <div align="center" style="text-align: justify">
@@ -15,7 +17,6 @@
 
 ## Tampilan Aplikasi
 #### 1. Halaman Beranda <br> 
-![img 3](img/beranda.png)
 
 #### 2. Halaman Detail <br> 
 ![img 4](img/detail.png)
