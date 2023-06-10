@@ -10,26 +10,10 @@
   Banyak orang tua membebaskan anak yang masih berusia dini bermain sendiri dengan gawai. Dibuktikan dengan laporan Badan Pusat Statistik (BPS), pada tahun 2022     sebanyak 33,44% anak usia 0-6 tahun di Indonesia sudah terbiasa menggunakan ponsel. Penggunaan gawai pada usia dini di luar pengawasan orang tua, menghilangkan   nilai kemanfaatan dari gawai itu sendiri. Dampak terburuknya, mampu menyebabkan ikatan orang tua dan anak menjadi semakin renggang. Sehingga diciptakan aplikasi   Smiling ini dengan tujuan menciptakan hubungan antara anak dan orang tua.
 </div>
 
-
-
-## Cara Penggunaan
-#### 1. Download File <br> Langkah pertama yaitu mendownload file dengan menekan tombol <b>Code</b> Kemudian menekan tombol <b>Download Zip</b> kemudian buka foler di text editor anda <br> ![img 1](img/download.png) 
-  
-#### 2. Menginstal Dependensi <br> Langkah kedua yaitu menginstall seluruh depedensi yang ada dalam proyek package.json dengan cara menulis pada terminal <b>Npm install</b> <br> ![img 2](img/npminstall.png)
-  
-#### 3. Menjalankan Aplikasi <br> Langkah ketiga yaitu menjalankan aplikasi dengan cara menulis pada terminal <b>Npm run start-dev</b> <br> ![img 2](img/npmrunstartdev.png)
-
-## Tampilan Aplikasi
-#### 1. Halaman Beranda <br> 
-
-#### 2. Halaman Detail <br> 
-![img 4](img/detail.png)
-
-#### 3. Halaman Favorite <br> 
-![img 5](img/favorite.png)
-
-#### 4. Halaman Tentang Kami <br> 
-![img 6](img/tentangkami.png)
+| Kolom 1    | Kolom 2    | Kolom 3    |
+| :---:      | :---:      | :---:      |
+| Baris 1    | Data 1     | Data 2     |
+| Baris 2    | Data 3     | Data 4     |
 
 
 ## Dokumentasi API
@@ -37,6 +21,10 @@
   Dokuemntasi API : [Smiling_API](https://smiling-api-docs.netlify.app/#/)
 
 ## Team
+| ID CAPSTONE : C23-M4002 | TEMA : SOLUSI UTILITAS | JUADUL : Smiling (Stories for Family Bonding) |
+| :---:                   | :---:                  | :---:                                         |
+
+
 #### 1. [Fahru Alfarizi Hananza Putrawan](https://www.linkedin.com/in/fahru-alfarizi-hananza-putrawan-94379b26a/)| UNIVERSITAS MATARAM | `F009XA014`
 
 #### 2. [Diaz Khalid Ananda](https://www.linkedin.com/in/diaz-khalid-ananda-5a135a267/)| UNIVERSITAS MATARAM | `F009XA017`
