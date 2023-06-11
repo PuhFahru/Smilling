@@ -43,15 +43,45 @@
 
 
 
-## Dokumentasi API
-* Untuk Dokumentasi API dari Aplikasi Smiling ini bisa akess link berikut: <br>
+<h2 align="center"> Risk and Issue Management Plan </h2>
+
+<div align="center" text-align=" left" >
+ 
+ Adapun cakupan pengerjaan proyek secara detail dijabarkan pada tabel berikut.
+ 
+ </div>
+
+| Minggu           | Aktivitas | Deskripsi |            |
+| -------          | -------   | -------   | -------    |
+| Minggu 1, 16 Mei 2023 | Akuisisi Data dan Analisis Kebutuhan Pengguna | Di minggu pertama, kami memulai proyek dengan mengakuisisi data, hal ini bertujuan untuk memperoleh data-data yang menjadi faktor pendukung dalam pembuatan website. Dari data yang diperoleh, akan dilakukan analisis terhadap kebutuhan pengguna, terkait apa saja yang dibutuhkan oleh pengguna agar bisa diimplementasikan pada aplikasi. |                 |
+| Minggu 2, 22 Mei 2023 | Desain Sistem (UI/UX) dan Konfigurasi Workspace | Pada minggu kedua diisi dengan membuat rancangan desain UI/UX sebagai referensi gambaran dari tampilan aplikasi yang akan dibuat. Kemudian dilanjutkan dengan konfigurasi workspace yang akan digunakan dalam pengembangan website. |
+| Minggu 3, 29 Mei 2023 | Pembuatan Front End Halaman Katalog Cerita dan Halaman Lain pada Navigasi dan Pembuatan Front End Halaman Detail Setiap Item | Pada minggu ketiga diisi dengan membuat Front End halaman inti dari website. Kemudian dilanjutkan pada halaman detail untuk setiap item yang ada pada website. Pembuatan Front End pada website akan disesuaikan dengan desain sistem yang telah dibuat sebelumnya. |           |
+| Minggu 4, 5 juni 2023 | Pembuatan Private API beserta Dokumentasi dan Pembuatan Back End Website | Pada minggu keempat diisi dengan pembuatan private API beserta dokumentasinya. Kemudian dilanjutkan dengan pembuatan Back End pada website. Dengan begitu, konten yang disajikan pada halaman website dimuat langsung dari API yang telah dibuat sebelumnya. Hal ini bertujuan agar konten yang ditampilkan bersifat dinamis, dan memudahkan admin/operator website dalam melakukan CRUD. |
+| Minggu 5, 12 juni 2023 | Testing dan Deployment Website | Pada minggu terakhir diisi dengan melakukan testing pada website, dengan tujuan untuk memeriksa apakah website sudah bekerja dan berjalan dengan semestinya atau masih terdapat bug yang dapat mempengaruhi pengalaman pengguna. Setelahnya akan dilakukan deployment versi final dari website. |                  |
+
+
+<h2 align="center"> Dokumentasi API </h2>
+
+<div align="center" text-align=" left" >
+ 
+  Untuk Dokumentasi API dari Aplikasi Smiling ini bisa akess link berikut: <br>
   Dokuemntasi API : [Smiling_API](https://smiling-api-docs.netlify.app/#/)
+ 
+ </div>
+
 
 
 <h2 align="center"> Project </h2>
 
-                        ID CAPSTONE : C23-M4002 || TEMA : SOLUSI UTILITAS || JUDUL : Smiling (Stories for Family Bonding)
+
+                       ID CAPSTONE : C23-M4002 || TEMA : SOLUSI UTILITAS || JUDUL : Smiling (Stories for Family Bonding)
+                       
+                        
+                        
+                        
+                        
 <h2 align="center"> Features </h2>
+
 <div align="center" style="text-align: justify">
   WEB Manifest || PWA || Multi Platform
 </div>                     
