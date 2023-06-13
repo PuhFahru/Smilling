@@ -62,12 +62,23 @@ Berikut merupakan beberapa faktor yang dapat menunda pembuatan proyek website ya
 | Susah untuk menentukan Ide kontent proyek. | Kurang mencari refrensi.  | isi konten pada proyek tidak banyak. |  Mencari refrensi sebanyak mungkin agar dapat mengimplementasikannya pada proyek. |
 
 
-<h2 align="center"> Dokumentasi API $ Git Back-End </h2>
+<h2 align="center"> Dokumentasi API & Git Back-End </h2>
 
 <div align="center" text-align=" left" >
  
   Untuk Dokumentasi API dan Git Back-End dari Aplikasi Smiling ini bisa akess link berikut: <br>
-             | [Smiling_API](https://smiling-api-docs.netlify.app/#/) | [Back-end](https://github.com/diazkhalid/smiling-app-back-end) |
+ 
+ 
+   <table>
+    <tr>
+      <th> Smiling_API </th>
+      <th> Back-end </th>
+    </tr>
+    <tr>
+     <td> https://smiling-api-docs.netlify.app/#/ </td>
+     <td> https://smiling-api-docs.netlify.app/#/  </td>
+    </tr>
+  </table>
        
   
  
