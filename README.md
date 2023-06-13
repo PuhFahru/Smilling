@@ -7,7 +7,7 @@
 
 <h2 align="center"> Executive Summary </h2>
 <div align="center" style="text-align: justify">
-  Banyak orang tua membebaskan anak yang masih berusia dini bermain sendiri dengan gawai. Dibuktikan dengan laporan Badan Pusat Statistik (BPS), pada tahun 2022     sebanyak 33,44% anak usia 0-6 tahun di Indonesia sudah terbiasa menggunakan ponsel. Penggunaan gawai pada usia dini di luar pengawasan orang tua, menghilangkan   nilai kemanfaatan dari gawai itu sendiri. Dampak terburuknya, mampu menyebabkan ikatan orang tua dan anak menjadi semakin renggang. Sehingga diciptakan aplikasi   Smiling ini dengan tujuan menciptakan hubungan antara anak dan orang tua.
+  Banyak orang tua membebaskan anak yang masih berusia dini bermain sendiri dengan gawai. Dibuktikan dengan laporan Badan Pusat Statistik (BPS), pada tahun 2022     sebanyak 33,44% anak usia 0-6 tahun di Indonesia sudah terbiasa menggunakan ponsel. Penggunaan gawai pada usia dini di luar pengawasan orang tua, menghilangkan   nilai kemanfaatan dari gawai itu sendiri. Dampak terburuknya, mampu menyebabkan ikatan orang tua dan anak menjadi semakin renggang. Sehingga di rancang aplikasi Smiling ini dengan tujuan membantu orang tua bonding (membangun hubungan/ikatan) dengan anak.
 </div>
 
 <h2 align="center"> Project Scope & Deliverables </h2>
@@ -62,12 +62,14 @@ Berikut merupakan beberapa faktor yang dapat menunda pembuatan proyek website ya
 | Susah untuk menentukan Ide kontent proyek. | Kurang mencari refrensi.  | isi konten pada proyek tidak banyak. |  Mencari refrensi sebanyak mungkin agar dapat mengimplementasikannya pada proyek. |
 
 
-<h2 align="center"> Dokumentasi API </h2>
+<h2 align="center"> Dokumentasi API $ Git Back-End </h2>
 
 <div align="center" text-align=" left" >
  
-  Untuk Dokumentasi API dari Aplikasi Smiling ini bisa akess link berikut: <br>
-  Dokuemntasi API : [Smiling_API](https://smiling-api-docs.netlify.app/#/)
+  Untuk Dokumentasi API dan Git Back-End dari Aplikasi Smiling ini bisa akess link berikut: <br>
+             | [Smiling_API](https://smiling-api-docs.netlify.app/#/) | [Back-end](https://github.com/diazkhalid/smiling-app-back-end) |
+             | -------                                                | -------                                                        |
+  
  
  </div>
 
@@ -77,7 +79,7 @@ Berikut merupakan beberapa faktor yang dapat menunda pembuatan proyek website ya
 
 
 
-                     ID CAPSTONE : C23-M4002 || TEMA : SOLUSI UTILITAS || JUDUL : Smiling (Stories for Family Bonding)
+                  ID CAPSTONE : C23-M4002 || TEMA : SOLUSI UTILITAS || JUDUL : Smiling (Stories for Family Bonding)
                        
                         
                         
