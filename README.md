@@ -68,7 +68,7 @@ Berikut merupakan beberapa faktor yang dapat menunda pembuatan proyek website ya
  
   Untuk Dokumentasi API dan Git Back-End dari Aplikasi Smiling ini bisa akess link berikut: <br>
              | [Smiling_API](https://smiling-api-docs.netlify.app/#/) | [Back-end](https://github.com/diazkhalid/smiling-app-back-end) |
-             | -------                                                | -------                                                        |
+       
   
  
  </div>
